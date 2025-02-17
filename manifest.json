@@ -1,0 +1,18 @@
+{
+  "name": "Circular",
+  "identifier": "sketch-circular-text",
+  "version": "1.0.0",
+  "description": "Creates circular text",
+  "author": "Rohit Designs. https://www.rohitdesigns.in",
+  "commands": [
+    {
+      "name": "Create Circular",
+      "identifier": "circular-text.create",
+      "script": "script.js",
+      "shortcut": "cmd shift c"
+    }
+  ],
+  "menu": {
+    "items": ["circular-text.create"]
+  }
+}

@@ -16,3 +16,5 @@ Welcome to the Circular-Text-Sketch-Plugin wiki!
 2. Create a text layer
 3. Select Text layer
 4. Click Plugins → Circular → Create Circular Text
+
+![iPhone 16 Pro](https://github.com/user-attachments/assets/4da1a559-1477-4ace-a9a5-0ca153411045)

@@ -19,4 +19,7 @@
 3. Select Text layer
 4. Click Plugins → Circular → Create Circular Text
 
+   <img width="513" alt="Screenshot 2025-02-17 at 12 00 13 PM" src="https://github.com/user-attachments/assets/ffc23ed9-b43b-4ade-8c4c-5467aabaf747" />
+
+
 ![iPhone 16 Pro](https://github.com/user-attachments/assets/4da1a559-1477-4ace-a9a5-0ca153411045)

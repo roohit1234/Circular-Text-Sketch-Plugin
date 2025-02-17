@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Circular Text Updates</title>
+    <link>https://roohit1234.github.io/Circular-Text-Sketch-Plugin/</link>
+    <description>Latest updates for My Sketch Plugin</description>
+    <item>
+      <title>Version 1.0.3</title>
+      <description>Initial release of the plugin</description>
+      <pubDate>Mon, 17 Feb 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/roohit1234/Circular-Text-Sketch-Plugin/releases/tag/v1.0.3"
+                 length="83362"
+                 type="application/zip" />
+      <sparkle:version>1.0.3</sparkle:version>
+      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+    </item>
+  </channel>
+</rss>

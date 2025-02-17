@@ -1,6 +1,6 @@
 # Circular-Text-Sketch-Plugin
 
-<img width="341" alt="circularText" src="https://github.com/user-attachments/assets/485dc24d-43fc-431f-ac86-a8e6b467cbfe" />
+![CleanShot 2025-02-17 at 12 00 50@2x](https://github.com/user-attachments/assets/16902257-80f0-41cf-ac27-92e8adbfd20c)
 
 
 # Welcome to the Circular-Text-Sketch-Plugin wiki!

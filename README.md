@@ -5,7 +5,8 @@
 
 # Welcome to the Circular-Text-Sketch-Plugin wiki!
 
-📖 # How to Use Circular Text 
+📖 How to Use Circular Text
+
 🔹 Installation 
 1. Download the latest circular-text.sketchplugin.zip file. https://github.com/roohit1234/Circular-Text-Sketch-Plugin/releases/
 2. Unzip the file.
